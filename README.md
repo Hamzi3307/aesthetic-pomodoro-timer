@@ -7,13 +7,7 @@ This is a simple Pomodoro timer made using Python Tkinter. It has a clean and ae
 1. Clone the repository:
 
 ```
-git clone https://github.com/bard-ai/aesthetic-pomodoro-timer.git
-```
-
-2. Install the requirements:
-
-```
-pip install -r requirements.txt
+git clone https://github.com/Hamzi3307/aesthetic-pomodoro-timer.git
 ```
 
 3. Run the program:
@@ -32,7 +26,7 @@ The timer will automatically stop when it reaches zero.
 
 * Clean and aesthetic design
 * Start, reset, and pause buttons
-* Automatic timer stop when it reaches zero
+* Automatic break and start session when it reaches zero
 
 **Tips**
 
