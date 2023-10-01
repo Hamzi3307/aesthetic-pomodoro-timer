@@ -30,7 +30,7 @@ The timer will automatically stop when it reaches zero.
 
 **Tips**
 
-* You can customize the timer length in the `pomodoro_timer.py` file.
-* You can also change the appearance of the timer by editing the CSS file.
+* You can customize the timer length in the by WORK_MIN, LONG_BREAK_MIN, SHORT_BREAK_MIN in the file `to_start_with.py` file.
+* You can also change the appearance of the timer by editing the UI section.
 
 **Enjoy!**
